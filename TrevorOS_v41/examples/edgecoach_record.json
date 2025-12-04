@@ -1,0 +1,30 @@
+{
+  "version": "4.1",
+  "metadata": {
+    "id": "0af92ae8-1bd7-4cf6-89c4-ac2904db03b7",
+    "type": "reflection",
+    "title": "Example Edge Coach Reflection",
+    "status": "draft",
+    "priority": 3,
+    "tags": [],
+    "created_at": "2025-12-04T05:27:30.581032Z",
+    "owner": "trevor",
+    "relations": []
+  },
+  "content": {
+    "summary": "- Draft AI PD agenda.",
+    "body": "Work:\n- Draft AI PD agenda.\n\nPersonal:\n- Walk after work.\n\nEmotional State:\n- Tired but optimistic.\n\nTasks:\n- Finalize governance slide.\n\nDecisions:\n- Prioritize teacher workflows first.\n\nConcerns:\n- Cognitive overload for staff.\n\nWins:\n- Framework draft approved.\n\nQuestions for Later:\n- How to measure long-term impact?\n\nNext Actions:\n- Schedule site leader check-in.",
+    "acceptance_criteria": [],
+    "checklist": [],
+    "logs": [],
+    "links": [],
+    "attachments": [],
+    "context": {
+      "location": "",
+      "timeframe": "",
+      "scope": "",
+      "people": []
+    },
+    "metrics": []
+  }
+}

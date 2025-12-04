@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d22e24697cbbac74",
+        "id": "cda2b294ea7c3d52",
         "type": "tabs",
         "children": [
           {
-            "id": "1a85699bd6f894e8",
+            "id": "8a4095c3cd025405",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,9 +173,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a85699bd6f894e8",
-  "lastOpenFiles": []
+  "active": "8a4095c3cd025405",
+  "lastOpenFiles": [
+    "TrevorOS_v41/templates/edge_coach_template.md",
+    "important?.md"
+  ]
 }

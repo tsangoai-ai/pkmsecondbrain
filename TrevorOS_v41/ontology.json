@@ -1,0 +1,125 @@
+{
+  "version": "4.1",
+  "labels": [
+    {
+      "id": "log.entry",
+      "title": "Log Entry",
+      "description": "Time-ordered observation or record of events, actions, or decisions.",
+      "category": "journal"
+    },
+    {
+      "id": "reflection",
+      "title": "Reflection",
+      "description": "Personal analysis, lessons learned, and insights derived from experience.",
+      "category": "journal"
+    },
+    {
+      "id": "action.item",
+      "title": "Action Item",
+      "description": "A single actionable task that should move work forward.",
+      "category": "workflow"
+    },
+    {
+      "id": "action.step",
+      "title": "Action Step",
+      "description": "A granular step that supports completion of a broader action item.",
+      "category": "workflow"
+    },
+    {
+      "id": "project",
+      "title": "Project",
+      "description": "A coordinated collection of tasks with a clear outcome and end date.",
+      "category": "planning"
+    },
+    {
+      "id": "milestone",
+      "title": "Milestone",
+      "description": "A checkpoint that marks significant progress within a project.",
+      "category": "planning"
+    },
+    {
+      "id": "objective",
+      "title": "Objective",
+      "description": "A qualitative statement describing a desired outcome or direction.",
+      "category": "planning"
+    },
+    {
+      "id": "key_result",
+      "title": "Key Result",
+      "description": "A measurable result that signals progress toward an objective.",
+      "category": "planning"
+    },
+    {
+      "id": "decision",
+      "title": "Decision",
+      "description": "A recorded choice, rationale, and implications for future work.",
+      "category": "governance"
+    },
+    {
+      "id": "risk",
+      "title": "Risk",
+      "description": "A potential issue with likelihood and impact that could affect outcomes.",
+      "category": "governance"
+    },
+    {
+      "id": "issue",
+      "title": "Issue",
+      "description": "A current blocker or problem requiring remediation.",
+      "category": "governance"
+    },
+    {
+      "id": "idea",
+      "title": "Idea",
+      "description": "A raw concept or opportunity that may be refined into work.",
+      "category": "ideation"
+    },
+    {
+      "id": "knowledge.note",
+      "title": "Knowledge Note",
+      "description": "Reusable reference material, concepts, or distilled learnings.",
+      "category": "knowledge"
+    },
+    {
+      "id": "meeting.note",
+      "title": "Meeting Note",
+      "description": "Notes, attendees, and outcomes captured from a synchronous session.",
+      "category": "knowledge"
+    },
+    {
+      "id": "research.source",
+      "title": "Research Source",
+      "description": "External citations, articles, or data that inform the work.",
+      "category": "knowledge"
+    },
+    {
+      "id": "resource",
+      "title": "Resource",
+      "description": "Supporting assets such as templates, files, or external tools.",
+      "category": "knowledge"
+    },
+    {
+      "id": "habit",
+      "title": "Habit",
+      "description": "A recurring routine that reinforces desired outcomes.",
+      "category": "personal"
+    },
+    {
+      "id": "template",
+      "title": "Template",
+      "description": "Reusable structure for consistent capture across the system.",
+      "category": "personal"
+    },
+    {
+      "id": "review",
+      "title": "Review",
+      "description": "Periodic evaluation of progress, quality, and next steps.",
+      "category": "personal"
+    },
+    {
+      "id": "metric",
+      "title": "Metric",
+      "description": "Quantitative measure tracked over time with units and observations.",
+      "category": "measurement"
+    }
+  ]
+}

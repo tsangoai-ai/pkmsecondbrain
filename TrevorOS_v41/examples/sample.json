@@ -1,0 +1,46 @@
+{
+  "version": "4.1",
+  "metadata": {
+    "id": "8b7c9c80-7d2f-4e5d-9a5e-4e7f5aa4f9a1",
+    "type": "project",
+    "title": "AI PD Day Planning and Governance Update",
+    "status": "active",
+    "priority": 3,
+    "tags": [
+      "log.entry",
+      "reflection",
+      "action.item",
+      "action.step",
+      "project",
+      "milestone",
+      "objective",
+      "key_result",
+      "decision",
+      "risk",
+      "issue",
+      "idea",
+      "knowledge.note",
+      "meeting.note",
+      "research.source",
+      "resource",
+      "habit",
+      "template",
+      "review",
+      "metric"
+    ],
+    "created_at": "2025-01-01T12:00:00Z",
+    "updated_at": "2025-01-03T09:30:00Z",
+    "source": "https://example.org/trevoros/provenance",
+    "owner": "Trevor Admin"
+  },
+  "content": {
+    "summary": "Example captured note about planning an AI PD day and updating the governance framework.",
+    "body": "Edge Coach\nWork: Plan AI PD roadmap.\nPersonal: Take an evening walk.\nEmotional State: Cautiously optimistic.\nTasks: Draft PD outline.\nDecisions: Choose tools for demo.\nConcerns: Teacher overload.\nWins: Framework outline approved.\nQuestions for Later: How to measure impact?\nNext Actions: Schedule follow-up meeting.\n",
+    "links": [
+      {
+        "label": "Governance Framework Draft",
+        "url": "https://example.org/docs/governance-framework"
+      }
+    ]
+  }
+}

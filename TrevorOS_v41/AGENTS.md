@@ -1,0 +1,7 @@
+- Never modify or rename top-level folders once created.
+- Always validate JSON against schema.json before writing.
+- Never invent ontology labels; use ontology.json only.
+- After any edit, output directory tree and diff.
+- Split large tasks and pause for confirmation.
+- Use UTF-8 text for all files.
+- Do not remove any system files once generated unless I approve.

@@ -1,0 +1,41 @@
+{
+  "version": "4.1",
+  "metadata": {
+    "id": "ce99e201-c070-4bf0-b257-a6364d9b5508",
+    "type": "log.entry",
+    "title": "AI PD prep and stakeholder check-ins",
+    "status": "draft",
+    "priority": 2,
+    "tags": [
+      "TrevorOS",
+      "daily-log",
+      "AI",
+      "governance"
+    ],
+    "created_at": "2025-02-01T08:00:00Z",
+    "owner": "trevor",
+    "relations": [],
+    "updated_at": "2025-02-01T12:00:00Z",
+    "due_at": "2025-02-02T08:00:00Z",
+    "source": "https://example.com/daily/2025-02-01"
+  },
+  "content": {
+    "summary": "Aligned key stakeholders on the AI PD agenda and confirmed follow-up tasks.\n\n---",
+    "body": "# Daily Log – 2025-02-01\n\n## Content Summary\n\nAligned key stakeholders on the AI PD agenda and confirmed follow-up tasks.\n\n---\n\n## Context\n\n- Location: District office\n- Timeframe: Full day\n- Scope: Work\n- People: Instructional team, site leads\n\n---\n\n## Edge Coach – Daily Reflection\n\nWork:\n- Finalized the PD outline and prioritized teacher workflows.\n\nPersonal:\n- Took a short walk after the afternoon meeting.\n\nEmotional State:\n- Focused and cautiously optimistic.\n\nTasks:\n- Prep demo flow for tomorrow.\n- Confirm presenter order.\n\nDecisions:\n- Lead with teacher-facing use cases before admin workflows.\n\nConcerns:\n- Balancing breadth of tools with teacher capacity.\n\nWins:\n- Governance draft approved for pilot rollout.\n\nQuestions for Later:\n- How to measure PD impact after the first month?\n\nNext Actions:\n- Schedule site leader check-in and gather feedback.\n\n---\n\n## Additional Notes (Body)\n\nCaptured questions from stakeholders and noted the need for clearer guardrails on data usage. Drafted a short FAQ for the PD deck.\n\n---\n\n## Metrics (Optional)\n\n- Name: Focus hours\n  - Value: 5\n  - Unit: hours\n  - Observed_at: 2025-02-01T22:00:00Z",
+    "acceptance_criteria": [],
+    "checklist": [],
+    "logs": [],
+    "links": [],
+    "attachments": [],
+    "context": {
+      "location": "District office",
+      "timeframe": "Full day",
+      "scope": "Work",
+      "people": [
+        "Instructional team",
+        "site leads"
+      ]
+    },
+    "metrics": []
+  }
+}
